@@ -1,0 +1,10 @@
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\bin\Debug\EjemploI_Suma.exe.config
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\bin\Debug\EjemploI_Suma.exe
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\bin\Debug\EjemploI_Suma.pdb
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.csprojAssemblyReference.cache
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.Form1.resources
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.Properties.Resources.resources
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.csproj.GenerateResource.cache
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.exe
+C:\Users\crobe\Documents\GitHub\Ejemplos_Excepciones\EjemploI_Suma\EjemploI_Suma\obj\Debug\EjemploI_Suma.pdb
